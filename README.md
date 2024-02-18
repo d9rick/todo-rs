@@ -7,6 +7,8 @@ It currently holds the following features:
 - After closing the application, tasks are saved in a *tasks.txt* file in csv format
 - The tasks are read in from *tasks.txt* in the root directory
 
+![ss](https://github.com/dcwalker25/todo-rs/assets/114644034/48348cd9-34a9-4e07-9fd4-d640861f0550)
+
 ## Future Functionality:
 - UI with terminal in raw mode
 - Use arrow keys to move
