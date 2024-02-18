@@ -1,0 +1,5 @@
+4,adopt chimpanzee,true
+2,go to your mother's house,true
+5,write Rust project,true
+3,go to grocery store,false
+1,fight a stranger,false
